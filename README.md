@@ -26,5 +26,5 @@ npm run dev
 
 ## 🌐 Live Website
 
-**[View Portfolio](https://your-portfolio.vercel.app)**
+**[View Portfolio](https://aayushikumari-portfolio.vercel.app/)**
 

@@ -4,7 +4,7 @@ export const PROFILE = {
   github: 'https://github.com/AayushiKumari1',
   linkedin: 'https://www.linkedin.com/in/aayushi-kumari-a52465302',
   // Your photo: put the image in the `public` folder (for example public/profile.jpg) and set photo: '/profile.jpg'
-  photo: './public/photo.jpg',
+  photo: '/photo.jpg',
 };
 
 export const NAV = [

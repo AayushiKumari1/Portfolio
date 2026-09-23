@@ -1,22 +1,30 @@
-# Aayushi Kumari - Portfolio (React + Vite)
+# 👩‍💻 Aayushi — Portfolio
 
-## Run it
+A modern, responsive personal portfolio built with **React.js and Vite**, designed to showcase my technical skills, projects, education, and professional journey.
+
+## ✨ Highlights
+
+* Responsive and modern UI
+* Skills & technology showcase
+* Featured projects
+* Education & experience
+* Contact section
+* Fast and optimized with Vite
+
+## 🛠️ Tech Stack
+
+**React.js · Vite · JavaScript · HTML5 · CSS3**
+
+## 🚀 Getting Started
+
 ```bash
+git clone https://github.com/YOUR_USERNAME/aayushi-portfolio.git
+cd aayushi-portfolio
 npm install
-npm run dev      # local dev server
-npm run build    # production build in dist/
+npm run dev
 ```
 
-## Deploy to Vercel
-Push the folder to GitHub, import the repo on vercel.com, and keep the defaults (Framework: Vite, build command `npm run build`, output `dist`).
+## 🌐 Live Website
 
-## Add your photo
-1. Copy your photo into the `public` folder, for example `public/profile.jpg` (a square or portrait photo with your face near the center works best, because it is cropped into a circle).
-2. In `src/data.js`, set `photo: '/profile.jpg'`.
-Until you do this, the About section shows an "Add photo" button that only previews a photo in your own browser.
+**[View Portfolio](https://your-portfolio.vercel.app)**
 
-## Where to edit
-- `src/data.js` - all text: projects, skills, achievements, education, links
-- `src/styles.css` - colors and layout (design tokens are at the top)
-- `src/components/` - one file per section
-- `src/icons.js` - technology logos (inlined, from the Devicon set)
